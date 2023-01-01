@@ -1,2 +1,2 @@
-# odin-recipes
-An early practice website created following an Odin tutorial
+The purpose of the recipes project is to build my html chops. This is earlyu in my Odin project journey.
+
